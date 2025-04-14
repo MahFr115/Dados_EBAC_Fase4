@@ -7,7 +7,7 @@ Módulo 22:  Tarefa 01 | Tarefa 02
 
 Módulo 23:  Tarefa 01 | Tarefa 02 |
 
-Módulo 24:  |
+Módulo 24:  Tarefa 01 | 
 
 Módulo 25:  |
 

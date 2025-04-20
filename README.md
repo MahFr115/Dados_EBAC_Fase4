@@ -5,13 +5,13 @@ Módulo 21:  Tarefa 02 | Tarefa 03
 
 Módulo 22:  Tarefa 01 | Tarefa 02
 
-Módulo 23:  Tarefa 01 | Tarefa 02 |
+Módulo 23:  Tarefa 01 | Tarefa 02 | Tarefa 03
 
-Módulo 24:  Tarefa 01 | 
+Módulo 24:  Tarefa 01 | Tarefa 02
 
-Módulo 25:  |
+Módulo 25:  Tarefa 01 | Tarefa 02
 
-Módulo 26:
+Módulo 26: Tarefa 01
 
 Módulo 27: |
 

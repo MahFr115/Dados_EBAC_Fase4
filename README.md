@@ -13,6 +13,6 @@ Módulo 25:  Tarefa 01 | Tarefa 02
 
 Módulo 26: Tarefa 01
 
-Módulo 27: |
+Módulo 27: Tarefa 01 | Tarefa 02
 
-Módulo 28:
+Módulo 28: 
